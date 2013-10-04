@@ -60,6 +60,7 @@
     <string name="build_date">Dátum zostavenia</string>
     <string name="cpu_info">CPU</string>
     <string name="mem_info">Pamäť</string>
+<<<<<<< HEAD
     <string name="anonymous_statistics_title">Štatistika CyanogenModu</string>
     <string name="anonymous_statistics_summary">Pomôžte zlepšiť CyanogenMod povolením anonymných štatistických hlásení</string>
     <string name="anonymous_statistics_warning_title">O štatistike</string>
@@ -74,6 +75,8 @@
     <string name="preview_version_title">Verzia</string>
     <string name="preview_country_title">Krajina</string>
     <string name="preview_carrier_title">Operátor</string>
+=======
+>>>>>>> cd1f4a7... Halo 2.0 (step 2/2)
     <string name="themes_settings_title">Témy</string>
     <string name="system_interface_title">Rozhranie systému</string>
     <string name="notification_drawer_title">Oznamovacia oblasť</string>

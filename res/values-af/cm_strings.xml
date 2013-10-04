@@ -44,6 +44,7 @@
     <string name="build_date">Bou datum</string>
     <string name="cpu_info">SVE</string>
     <string name="mem_info">Geheue</string>
+<<<<<<< HEAD
     <string name="anonymous_statistics_title">CyanogenMod statistieke</string>
     <string name="anonymous_statistics_summary">Help CyanogenMod verbeter deur anonieme statistiek verslagdoening te kies</string>
     <string name="anonymous_statistics_warning_title">Inligting</string>
@@ -60,6 +61,8 @@
     <string name="preview_carrier_title">Draer</string>
     <string name="header_category_interface">Personalisering</string>
     <string name="homescreen_settings_title">Tuis skerm</string>
+=======
+>>>>>>> cd1f4a7... Halo 2.0 (step 2/2)
     <string name="themes_settings_title">Temas</string>
     <string name="system_settings_title">Koppelvlak</string>
     <string name="system_interface_title">Stelsel koppelvlak</string>
